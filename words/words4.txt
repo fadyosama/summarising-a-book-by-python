@@ -1,0 +1,67 @@
+aroma, beverage, cluster, combine, condensed, contemporary, cultivate, divine, humid,
+odor, palate, paradise, plantation, rapid, rate, soothing, subtle, texture, toxic, vary 8
+2
+accident, admiral, arc, character, conscience, fiery, flesh, grapefruit, hay, horrified,
+kerosene, loop, paddle, raft, sour, stake, steward, string, thorn, wreck 14
+3
+admonish, audible, awesome, beware, brag, conscious, disagree, echo, eventual, hint,
+idiot, immense, indirect, option, pastime, perfect, pinpoint, switch, thorough, torment 20
+4
+beak, damp, disapprove, except, flight, fond, immoral, ivy, moan, oblivious, perish, pit,
+rim, roost, slippery, soar, trivial, typical, utterly, weep 26
+5
+awhile, cyberspace, edit, essay, evaluate, faint, global, gymnasium, highlight, ignorant,
+index, lecture, moral, operate, private, recent, resolution, semester, typewritten, weird 32
+6
+absolute, alas, attentive, cape, envision, evenly, folk, melt, patch, pleasure, pop,
+pudding, rail, recipe, role, shrink, soak, spark, spirit, suit 38
+7
+account, architect, conceal, crime, deed, gratitude, habitat, intervene, landmark, legal,
+memorable, oblige, offense, proclaim, rally, resolve, resource, sentence, volunteer, witness 44
+8
+access, conduct, constant, crack, device, enclose, grip, halt, impending, influence, law,
+mode, perspire, replace, snap, sly, tend, valid, version, whatsoever 50
+9
+alongside, appetite, assist, breeze, defy, display, efficient, feeble, forgive, lively, majestic,
+nor, outraged, pessimistic, rumor, slap, smash, subject, wage, whereas 56
+10 animate, classify, concede, concept, construct, decade, diagram, ferry, handy, isolate, longing,
+numerous, particle, plea, refrain, review, sophisticated, surrender, upright, worthwhile 62
+11 alliance, applause, armed, authoritative, ceremony, culture, defense, detail, diverse,
+enchant, equip, exception, genre, impact, lure, obstacle, shelter, sort, supply, vain 68
+12 alternative, avenue, belly, bid, blow, conflict, continent, current, disrespect, enthusiasm,
+harsh, lean, meantime, mischief, muscle, rescue, succession, terrain, timid, violence 74
+13 affect, autograph, bead, brew, charm, destiny, horn, irritable, lag, maximize, nightmare,
+nutritious, protein, signature, stuff, subconscious, van, warn, workout, zoom 80
+14 brick, crumble, dough, express, fist, flexible, flush, injure, lump, mixture, reconcile, ruin,
+shatter, shutter, sift, slight, sparkle, sprinkle, stale, utter 86
+15 although, apply, await, beloved, bury, climate, complain, confuse, due, entire, establish,
+furnace, leash, mature, measure, midst, misery, prior, research, variety 6 altogether, bind, bruise, custom, disobedient, foresee, glimpse, hoop, misfortune,
+negative, per, plead, rip, sake, scrape, source, stern, stitch, thump, vehement 98
+17 civilization, convenient, den, dew, drastic, exit, flock, fold, lid, loom, mighty, mushroom,
+native, poison, reed, shield, stormy, sway, urban, wade 104
+18 accent, barber, basement, blank, blink, choir, comic, complicate, decline, errand, glove,
+hermit, justly, leather, ponder, reserve, script, search, slam, staircase 110
+19 afflicted, aisle , atmosphere, author, breakdown, cargo, chapter, connect, etc., flip, idle,
+notify, pea, raisin, retain, state, tray, unfortunate, vivid, vomit 116
+20 betray, blast, bracelet, cease, choke, civil, comment, cross, dent, distrust, fort, found,
+lining, mass, pray, rife, sole, sweep, treachery, tuck 122
+21 background, bait, chronicle, copper, disease, folklore, infect, itch, literature, millennium,
+myth, promote, relate, religion, sum, teller, trustworthy, update, vein, venom 128
+22 charity, commerce, condemn, cozy, deplete, economy, empire, goods, heed, hitchhike,
+mock, neutral, persecute, pity, reduce, scribe, temper, throne, unity, victor 134
+23 accurate, analyze, asteroid, controversy, evolve, factor, genetic, genome, identical, intellectual,
+majority, mammal, multiply, offspring, pesticide, regulate, reinforce, stricken, vast, vegetarian 140
+24 cherish, compassion, consent, core, cunning, dizzy, equilibrium, foster, grind, growl,
+moderation, predator, sane, saucer, snatch, stagger, stumble, tense, tumble, withhold 146
+25 aircraft, celebrity, concrete, decisive, esteemed, ethical, extinct, hardy, institute, jealousy,
+migrate, nurture, overhead principle, rural, secluded, species, swamp, traverse, zoology 152
+26 assumption, barley, beast, colonel, contagious, corpse, crisis, cure, deformed, discriminate,
+embassy, extinguish, flint, harass, integrate, miniature, nutrition, promptly, technician, tropics 158
+27 beneficial, birthplace, capacity, comparative, comprehensive, conserve, crucial, cumulative, deposit,
+distribute, equator, exotic, federal, formation, frequency, objective, oxygen, rainforest, strategy, wooded 164
+28 avail, expand, define, dread, fundamental, horrifying, incredulous, linger, organism,
+paraphrase, plague, presently, random, riot, scribble, shrine, solitude, stark, summon, worsen 170
+29 automobile, candidate, confidential, corporate, enhance, era, guideline, incorporate, interact, interval,
+mobile, modify, parallel, phenomenon, pollute, ridicule, solar, territory, tournament, transportation 176
+30 bill, boundary, chaos, consistent, cyclone, doomed, heir, martial, organic, poultry,
+scramble, sergeant, sheer, stance, telegraph, textile, tornado, typhoon, wail, wardrobe 
